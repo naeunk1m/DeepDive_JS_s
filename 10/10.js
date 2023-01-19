@@ -199,11 +199,11 @@
 // obj.sayHi();
 
 // ex 24
-const obj = {
-  name: "Kim",
-  sayHi() {
-    console.log(`Hi! ` + this.name);
-  }
-};
+// const obj = {
+//   name: "Kim",
+//   sayHi() {
+//     console.log(`Hi! ` + this.name);
+//   }
+// };
 
-obj.sayHi();
+// obj.sayHi();
