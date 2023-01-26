@@ -41,10 +41,12 @@
 
 // ex 07
 
-var score = 80;
+// var score = 80;
 
-// copy 변수에는 score 변수의 값 80이 복사되어 할당된다.
-var copy = score;
+// // copy 변수에는 score 변수의 값 80이 복사되어 할당된다.
+// var copy = score;
 
-console.log(score, copy);
-console.log(score === copy);
+// console.log(score, copy);
+// console.log(score === copy);
+
+// ex 08
